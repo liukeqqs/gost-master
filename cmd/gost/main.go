@@ -13,8 +13,7 @@ import (
 	"sync"
 
 	"github.com/go-gost/core/logger"
-	xlogger "github.com/go-gost/x/logger"
-	"github.com/judwhite/go-svc"
+	xlogger "github.com/liukeqqs/x2-master/logger"
 )
 
 var (
